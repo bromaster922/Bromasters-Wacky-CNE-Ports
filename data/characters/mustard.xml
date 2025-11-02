@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" y="-200" camx="100" camy="200" icon="mustard">
+	<anim name="idle" anim="mustard idle"/>
+	<anim name="singDOWN" anim="mustard down"/>
+	<anim name="singRIGHT" anim="mustard right"/>
+	<anim name="singLEFT" anim="mustard left"/>
+	<anim name="singUP" anim="mustard up"/>
+</character>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" y="325" sprite="BOYFREAK" scale="0.8" flipX="true" isPlayer="true">
+	<anim name="idle" anim="BF idle dance"/>
+	<anim name="singDOWN" anim="BF NOTE DOWN" x="-55" y="-55"/>
+	<anim name="singRIGHT" anim="BF NOTE RIGHT" x="-94" y="-7"/>
+	<anim name="singLEFT" anim="BF NOTE LEFT" x="-45" y="-10"/>
+	<anim name="singUP" anim="BF NOTE UP" y="30"/>
+	<anim name="MISS" anim="MISS" x="28" y="32"/>
+	<anim name="BF HEY!!" anim="BF HEY!!" x="5" y="4"/>
+</character>

@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character y="300" flipX="true" camx="-200" isPlayer="true" icon="fivedance">
+	<anim name="idle" anim="fivedanc" loop="true"/>
+	<anim name="fivedanc" anim="fivedanc" loop="true"/>
+</character>

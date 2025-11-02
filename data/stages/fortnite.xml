@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="/stages/" name="fortnite">
+	<sprite x="-538.173705762373" sprite="fortnite" y="-211.425384406646" type="none" name="fortnite"/>
+	<girlfriend/>
+	<dad/>
+	<boyfriend/>
+</stage>

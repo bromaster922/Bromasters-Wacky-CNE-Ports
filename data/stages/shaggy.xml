@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/shaggy/" name="shaggy" zoom="0.6">
+	<sprite scroll="0.2" sprite="BG" type="none" scale="3" name="BG"/>
+	<sprite scroll="0.3" sprite="Ass1" type="none" scale="2.5" name="ass1"/>
+	<sprite scroll="0.5" sprite="Ass2" type="none" scale="3" name="ass2"/>
+	<sprite x="-260.587164039398" sprite="Ring1" y="214.837559287164" type="none" scale="2.5" name="Ring1"/>
+	<sprite x="-441.705499857203" sprite="Ring2" y="280.879394783112" type="none" scale="2.5" name="Ring2"/>
+	<girlfriend x="576.682199943261" y="71.1059333522462"/>
+	<dad x="-204.353220818265" y="135.712232382649"/>
+	<boyfriend/>
+</stage>

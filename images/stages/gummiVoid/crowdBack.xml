@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdBack.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowd back instance 10000" x="14" y="14" width="2154" height="457" frameX="-1" frameY="-3" frameWidth="2160" frameHeight="462"/>
+	<SubTexture name="crowd back instance 10001" x="14" y="14" width="2154" height="457" frameX="-1" frameY="-3" frameWidth="2160" frameHeight="462"/>
+	<SubTexture name="crowd back instance 10002" x="14" y="14" width="2154" height="457" frameX="-1" frameY="-3" frameWidth="2160" frameHeight="462"/>
+	<SubTexture name="crowd back instance 10003" x="14" y="478" width="2160" height="462"/>
+	<SubTexture name="crowd back instance 10004" x="14" y="478" width="2160" height="462"/>
+	<SubTexture name="crowd back instance 10005" x="14" y="478" width="2160" height="462"/>
+	<SubTexture name="crowd back instance 10006" x="14" y="947" width="2154" height="461" frameX="-2" frameY="-2" frameWidth="2160" frameHeight="462"/>
+	<SubTexture name="crowd back instance 10007" x="14" y="947" width="2154" height="461" frameX="-2" frameY="-2" frameWidth="2160" frameHeight="462"/>
+	<SubTexture name="crowd back instance 10008" x="14" y="947" width="2154" height="461" frameX="-2" frameY="-2" frameWidth="2160" frameHeight="462"/>
+</TextureAtlas>

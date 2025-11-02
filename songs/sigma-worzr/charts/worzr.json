@@ -1,0 +1,10135 @@
+{
+	"events": [
+		{
+			"params": [
+				false,
+				-16777216,
+				64,
+				"camHUD"
+			],
+			"time": 0,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				false,
+				0.7,
+				"camGame",
+				4,
+				"linear",
+				"In",
+				"direct",
+				false
+			],
+			"time": 0,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				99999,
+				0.1,
+				"BEAT",
+				0
+			],
+			"time": 0,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				true,
+				0.9,
+				"camGame",
+				59,
+				"linear",
+				"In",
+				"direct",
+				false
+			],
+			"time": 96.7741935483871,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				true,
+				1.1,
+				"camGame",
+				4,
+				"quart",
+				"In",
+				"direct",
+				false
+			],
+			"time": 5806.45161290323,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				4,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 6096.77419354839,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				true,
+				0.9,
+				"camGame",
+				16,
+				"quart",
+				"Out",
+				"direct",
+				false
+			],
+			"name": "Camera Zoom",
+			"time": 6193.54838709677
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 12387.0967741935,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 18580.6451612903,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 19548.3870967742
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 19548.3870967742
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 21096.7741935484,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 21096.7741935484,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 22064.5161290323
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 22064.5161290323
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 22451.6129032258,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 22451.6129032258,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 22838.7096774194
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 22838.7096774194
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 23129.0322580645,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 23129.0322580645,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 23612.9032258065
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 23612.9032258065
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 24000,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 24000,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 24290.3225806452
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 24290.3225806452
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 24580.6451612903,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 24580.6451612903,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 24774.1935483871,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				8,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 24774.1935483871,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 25548.3870967742
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 25548.3870967742
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 26516.1290322581,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 26516.1290322581,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 26903.2258064516
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 26903.2258064516
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 27483.8709677419,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 27483.8709677419,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 28258.064516129
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 28258.064516129
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 28645.1612903226,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 28645.1612903226,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 29032.2580645161
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 29032.2580645161
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 29322.5806451613,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 29322.5806451613,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"quart",
+				"Out"
+			],
+			"time": 29806.4516129032,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				true,
+				1,
+				"camGame",
+				4,
+				"quart",
+				"Out",
+				"direct",
+				false
+			],
+			"time": 29806.4516129032,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				0.1
+			],
+			"time": 29806.4516129032,
+			"name": "Camera Bop"
+		},
+		{
+			"params": [
+				true,
+				1.2,
+				"camGame",
+				4,
+				"quart",
+				"Out",
+				"direct",
+				false
+			],
+			"time": 30193.5483870968,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				true,
+				0.9,
+				"camGame",
+				4,
+				"quart",
+				"In",
+				"direct",
+				false
+			],
+			"name": "Camera Zoom",
+			"time": 30580.6451612903
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 30967.7419354839
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 30967.7419354839
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 31354.8387096774,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 31354.8387096774,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 31741.935483871
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 31741.935483871
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 32032.2580645161,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 32032.2580645161,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 32322.5806451613
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 32322.5806451613
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 32516.1290322581,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 32516.1290322581,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 32903.2258064516
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 32903.2258064516
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 33290.3225806452,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 33290.3225806452,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 33580.6451612903
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 33580.6451612903
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 33870.9677419355,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 33870.9677419355,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 34064.5161290323
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 34064.5161290323
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 34451.6129032258,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 34451.6129032258,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 34838.7096774194
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 34838.7096774194
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 35129.0322580645,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 35129.0322580645,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 35419.3548387097
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 35419.3548387097
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 35612.9032258065,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 35612.9032258065,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 36000
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 36000
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 36387.0967741936,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 36387.0967741936,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 36677.4193548387
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 36677.4193548387
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 36967.7419354839,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 36967.7419354839,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 37161.2903225807
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 37161.2903225807
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 37161.2903225807,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 37548.3870967742,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 37548.3870967742,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 37935.4838709677
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 37935.4838709677
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 38225.8064516129,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 38225.8064516129,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 38516.1290322581
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 38516.1290322581
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 38709.6774193548,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 38709.6774193548,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 39096.7741935484
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 39096.7741935484
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 39483.8709677419,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 39483.8709677419,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 39774.1935483871
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 39774.1935483871
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 40064.5161290323,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 40064.5161290323,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 40258.064516129
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 40258.064516129
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 40645.1612903226,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 40645.1612903226,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 41032.2580645161
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 41032.2580645161
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 41322.5806451613,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 41322.5806451613,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 41612.9032258065
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 41612.9032258065
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 41806.4516129032,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 41806.4516129032,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 42193.5483870968
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 42193.5483870968
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 42580.6451612903,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 42580.6451612903,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 42870.9677419355
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 42870.9677419355
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 43161.2903225807,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 43161.2903225807,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 43354.8387096774,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				165
+			],
+			"time": 43354.8387096774,
+			"name": "BPM Change"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 43354.8387096774
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 43354.8387096774
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 43718.4750733138,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 43718.4750733138,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 44082.1114369502
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 44082.1114369502
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 44354.8387096774,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 44354.8387096774,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 44627.5659824047
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 44627.5659824047
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 44809.3841642229,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 44809.3841642229,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 44809.3841642229,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 45173.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 45173.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 45536.6568914956,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 45536.6568914956,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 45809.3841642229
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 45809.3841642229
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 46082.1114369502,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 46082.1114369502,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 46263.9296187683
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 46263.9296187683
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 46263.9296187684,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 46627.5659824047,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 46627.5659824047,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 46991.2023460411
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 46991.2023460411
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 47263.9296187683,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 47263.9296187683,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 47536.6568914956
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 47536.6568914956
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 47718.4750733138,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 47718.4750733138,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 47718.4750733138,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 48263.9296187683
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 48263.9296187683
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 48809.3841642229,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 48809.3841642229,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				4,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 49082.1114369502,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				175
+			],
+			"time": 49173.0205278593,
+			"name": "BPM Change"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 51915.8776707164,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 53287.306242145,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				true,
+				1.2,
+				"camGame",
+				16,
+				"expo",
+				"In",
+				"direct",
+				false
+			],
+			"time": 53287.306242145,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 54658.7348135735,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				false,
+				0.6,
+				"camGame",
+				4,
+				"linear",
+				"In",
+				"direct",
+				false
+			],
+			"time": 54658.7348135735,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				false,
+				-16777216,
+				64,
+				"camGame"
+			],
+			"time": 54658.7348135735,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				88888,
+				9,
+				"BEAT",
+				0
+			],
+			"time": 54658.7348135735,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 54658.7348135735
+		},
+		{
+			"params": [
+				true,
+				0.9,
+				"camGame",
+				63,
+				"linear",
+				"InOut",
+				"direct",
+				false
+			],
+			"time": 54744.4490992878,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 55001.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 55344.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 55601.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 55858.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 56030.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 56373.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 56715.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 56973.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 57230.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 57401.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 57744.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 58087.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 58344.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 58601.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 58773.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 59115.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 59458.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 59715.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 59973.0205278592
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 60144.4490992878,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 60144.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 60144.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 60487.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 60487.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 60830.1633850021
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 60830.1633850021
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 61087.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 61087.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 61344.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 61344.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 61515.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 61515.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 61858.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 61858.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 62201.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 62201.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 62458.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 62458.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 62715.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 62715.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 62887.306242145
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 62887.306242145
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 63230.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 63230.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 63573.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 63573.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 63830.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 63830.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 64087.306242145
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 64087.306242145
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 64258.7348135735,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 64258.7348135735,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 64601.5919564307
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 64601.5919564307
+		},
+		{
+			"params": [
+				true,
+				1.1,
+				"camGame",
+				4,
+				"quart",
+				"Out",
+				"direct",
+				true
+			],
+			"time": 64944.4490992878,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 65630.1633850021
+		},
+		{
+			"params": [
+				true,
+				0.9,
+				"camGame",
+				4,
+				"quart",
+				"Out",
+				"direct",
+				false
+			],
+			"time": 65630.1633850021,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 65630.1633850021,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 65973.0205278592,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 65973.0205278592,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 66315.8776707164
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 66315.8776707164
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 66573.0205278592,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 66573.0205278592,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 66830.1633850021
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 66830.1633850021
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 67001.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 67001.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 67344.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 67344.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 67687.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 67687.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 67944.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 67944.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 68201.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 68201.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 68373.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 68373.0205278592
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 68373.0205278593,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 68715.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 68715.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 69058.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 69058.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 69315.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 69315.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 69573.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 69573.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 69744.4490992878,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 69744.4490992878,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 70087.306242145
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 70087.306242145
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 70430.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 70430.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 70687.306242145
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 70687.306242145
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 70944.4490992878,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 70944.4490992878,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 71115.8776707164
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 71115.8776707164
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 71115.8776707164,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 71458.7348135735,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 71458.7348135735,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 71801.5919564307
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 71801.5919564307
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 72058.7348135735,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 72058.7348135735,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 72315.8776707164
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 72315.8776707164
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 72487.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 72487.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 72830.1633850021
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 72830.1633850021
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 73173.0205278592,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 73173.0205278592,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 73430.1633850021
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 73430.1633850021
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 73687.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 73687.306242145,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 73858.7348135735,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 73858.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 73858.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 74201.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 74201.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 74544.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 74544.4490992878
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 74801.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 74801.5919564307,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 75058.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 75058.7348135735
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 75230.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 75230.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 75573.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 75573.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 75915.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 75915.8776707164,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 76173.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"name": "Add Camera Zoom",
+			"time": 76173.0205278592
+		},
+		{
+			"params": [
+				0.05,
+				"camGame"
+			],
+			"time": 76430.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				0.05,
+				"camHUD"
+			],
+			"time": 76430.1633850021,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				4,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 76515.8776707164,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 76601.5919564307,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 79344.4490992878,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				true,
+				1.1,
+				"camGame",
+				8,
+				"quart",
+				"Out",
+				"direct",
+				false
+			],
+			"name": "Camera Zoom",
+			"time": 87573.0205278592
+		},
+		{
+			"params": [
+				true,
+				1.2,
+				"camGame",
+				8,
+				"quart",
+				"Out",
+				"direct",
+				false
+			],
+			"time": 90315.8776707164,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 93058.7348135734,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				true,
+				0.3,
+				"camGame",
+				16,
+				"quart",
+				"In",
+				"direct",
+				false
+			],
+			"time": 93058.7348135734,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				true,
+				-16777216,
+				16,
+				"camHUD"
+			],
+			"time": 93058.7348135734,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				999999,
+				0.1,
+				"BEAT",
+				0
+			],
+			"time": 93058.7348135734,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				false,
+				-16777216,
+				128,
+				"camHUD"
+			],
+			"time": 94430.1633850021,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				false,
+				0.7,
+				"camGame",
+				32,
+				"linear",
+				"In",
+				"direct",
+				false
+			],
+			"time": 94430.1633850021,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				true,
+				0.9,
+				"camGame",
+				127,
+				"linear",
+				"In",
+				"direct",
+				false
+			],
+			"time": 94515.8776707164,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 98544.4490992877,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				3,
+				false,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 103344.449099288,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				false,
+				1.1,
+				"camGame",
+				4,
+				"linear",
+				"In",
+				"direct",
+				false
+			],
+			"time": 103344.449099288,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				true,
+				0.9,
+				"camGame",
+				8,
+				"quart",
+				"Out",
+				"direct",
+				false
+			],
+			"time": 104030.163385002,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				1,
+				1.2,
+				"BEAT",
+				0
+			],
+			"time": 104030.163385002,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 109515.877670716,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 115001.59195643,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				1,
+				"BEAT",
+				0
+			],
+			"time": 115001.59195643,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 120487.306242145,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 125973.020527859,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 131458.734813573,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 136944.449099288,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				true,
+				0.5,
+				"camGame",
+				64,
+				"quart",
+				"Out",
+				"direct",
+				false
+			],
+			"time": 147915.877670716,
+			"name": "Camera Zoom"
+		},
+		{
+			"params": [
+				999999,
+				0.1,
+				"BEAT",
+				0
+			],
+			"time": 147915.877670716,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				true,
+				-16777216,
+				32,
+				"camHUD"
+			],
+			"time": 147915.877670716,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				false,
+				-1,
+				1,
+				"camHUD"
+			],
+			"time": 158201.591956431,
+			"name": "Camera Flash"
+		},
+		{
+			"params": [
+				3,
+				false,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 158544.449099288,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				false,
+				0.9,
+				"camGame",
+				4,
+				"linear",
+				"In",
+				"direct",
+				false
+			],
+			"time": 158544.449099288,
+			"name": "Camera Zoom"
+		}
+	],
+	"codenameChart": true,
+	"strumLines": [
+		{
+			"keyCount": 4,
+			"strumScale": 1,
+			"position": "dad",
+			"notes": [
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 1645.16129032258,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 145.161290322581,
+					"time": 1838.70967741935,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 48.3870967741925,
+					"time": 1983.87096774194,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 48.3870967741937,
+					"time": 2080.64516129032,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 193.548387096774,
+					"time": 2322.58064516129,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 48.3870967741937,
+					"time": 2516.12903225806,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 4935.48387096774,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 5225.8064516129,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 387.096774193548,
+					"time": 5419.35483870968,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 387.096774193549,
+					"time": 5806.45161290323,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 6193.54838709677,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 6387.09677419355,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 6774.1935483871,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 6967.74193548387,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 7354.83870967742,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 7548.38709677419,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 7741.93548387097,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 7935.48387096774,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 8032.25806451613,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 8322.58064516129,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 8516.12903225806,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 8903.22580645161,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 9096.77419354839,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 9290.32258064516,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 9483.87096774194,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 9870.96774193548,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 290.322580645161,
+					"time": 10064.5161290323,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 10451.6129032258,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 10645.1612903226,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 10838.7096774194,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 11032.2580645161,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 11129.0322580645,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 11419.3548387097,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 11612.9032258065,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 12000,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 12387.0967741935,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 12774.1935483871,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 13548.3870967742,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 13935.4838709677,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 14322.5806451613,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 14709.6774193548,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 15096.7741935484,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 15870.9677419355,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 16258.064516129,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 17419.3548387097,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 17806.4516129032,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 18580.6451612903,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 18774.1935483871,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 19161.2903225806,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 19354.8387096774,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 20129.0322580645,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 20322.5806451613,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 20419.3548387097,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 20709.6774193548,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 20903.2258064516,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 21096.7741935484,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 21677.4193548387,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 22064.5161290323,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 22258.064516129,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 193.548387096773,
+					"time": 22451.6129032258,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 22645.1612903226,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 193.548387096773,
+					"time": 22838.7096774194,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 23032.2580645161,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 193.548387096773,
+					"time": 23225.8064516129,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 23419.3548387097,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 23903.2258064516,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 290.322580645159,
+					"time": 24000,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 29709.6774193548,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 30000,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 387.096774193549,
+					"time": 30193.5483870968,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 145.161290322547,
+					"time": 30580.6451612903,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 30774.1935483871,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 30967.7419354839,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 31161.2903225806,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 31548.3870967742,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 31741.935483871,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 31935.4838709677,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 32322.5806451613,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 32516.1290322581,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 32709.6774193548,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 32903.2258064516,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 33096.7741935484,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 33290.3225806452,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 33483.8709677419,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 34064.5161290323,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 34258.064516129,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 34645.1612903226,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 34838.7096774194,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 35032.2580645161,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 35419.3548387097,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 35612.9032258065,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 35806.4516129032,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 36000,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 36193.5483870968,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 36580.6451612903,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 37548.3870967742,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 37741.935483871,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 38322.5806451613,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 38516.1290322581,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 39290.3225806452,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 39483.8709677419,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 39870.9677419355,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 40064.5161290323,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 40645.1612903226,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 40838.7096774194,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 41419.3548387097,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 41612.9032258065,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 42387.0967741936,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 42580.6451612903,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 42967.7419354839,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 43161.2903225807,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 43354.8387096774,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 43536.6568914956,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 43718.4750733138,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 43900.293255132,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 43991.2023460411,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 90.9090909090883,
+					"time": 44082.1114369502,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 44263.9296187684,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 44445.7478005865,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 44627.5659824047,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 46263.9296187684,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 46445.7478005865,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 46718.4750733138,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 46809.3841642229,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 46900.293255132,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 47082.1114369502,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 47173.0205278593,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 47263.9296187684,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 47354.8387096774,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 47445.7478005865,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 47536.6568914956,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 90.9090909090883,
+					"time": 47627.5659824047,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 47900.293255132,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 48082.1114369502,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 257.14285714287,
+					"time": 49173.0205278593,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 49944.4490992878,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 50115.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 50287.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 342.857142857159,
+					"time": 50544.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 42.8571428571377,
+					"time": 50887.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 51230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 51315.8776707164,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 51401.5919564307,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 51487.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 52258.7348135736,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 52344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 52601.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 52687.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 52858.7348135736,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 53030.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 257.142857142862,
+					"time": 53287.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 55001.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 55173.0205278593,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 55344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 55515.8776707164,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 55687.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 55858.7348135736,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 56030.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 56201.5919564307,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 56287.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 56544.4490992878,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 56715.8776707164,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 56887.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 57058.7348135736,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 57230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 57401.5919564307,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 57573.0205278593,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 57744.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 57915.8776707164,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 58087.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 58258.7348135736,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 58601.5919564307,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 58773.0205278593,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 58944.4490992878,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 59115.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 59287.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 59458.7348135736,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 59630.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 59801.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 59973.0205278593,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 60315.8776707164,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 60487.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 60658.7348135736,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.428571428514,
+					"time": 60830.1633850021,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 61001.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 128.57142857142,
+					"time": 61001.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 61173.0205278593,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 61344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.428571428565,
+					"time": 61515.8776707164,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 61687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 257.142857142855,
+					"time": 61858.7348135736,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 257.142857142848,
+					"time": 62201.5919564307,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 62715.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 62887.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 63058.7348135736,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 63230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 63401.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 257.142857142877,
+					"time": 63573.0205278593,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 64258.7348135736,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 64430.1633850021,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 64601.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 64773.0205278593,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 428.571428571442,
+					"time": 64944.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 65630.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 65801.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 65973.0205278593,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 66144.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 66315.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 66487.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 66658.7348135736,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 66830.1633850021,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 67001.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 67173.0205278593,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 67344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 67515.8776707164,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 67687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 67858.7348135736,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 68030.1633850021,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 68201.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 68373.0205278593,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 68544.4490992878,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 68715.8776707164,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 68887.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 69058.7348135736,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 69230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 69401.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 69573.0205278593,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 69744.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 69915.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 70087.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 70258.7348135735,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 70430.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 70601.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 70773.0205278593,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 70944.4490992878,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 71115.8776707164,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.42857142858,
+					"time": 71287.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 71630.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 71801.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 71973.0205278592,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 72315.8776707164,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 72487.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 72658.7348135735,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 73001.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 73173.0205278592,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 73344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 73515.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 73687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 73858.7348135735,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 74030.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 74201.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 74373.0205278592,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 74544.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 74801.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 75058.7348135735,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 75230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 75401.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 75573.0205278592,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 75744.4490992878,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 75830.1633850021,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 75915.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 76087.3062421449,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 76258.7348135735,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 76430.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 76944.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 77115.8776707164,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 77287.3062421449,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 77458.7348135735,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 77630.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 77801.5919564307,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 77973.0205278592,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 78144.4490992878,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 342.857142857159,
+					"time": 78315.8776707164,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 257.142857142826,
+					"time": 78658.7348135735,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 79173.0205278592,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.428571428565,
+					"time": 79344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 79515.8776707163,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 79687.3062421449,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 79858.7348135735,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 257.142857142841,
+					"time": 80030.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.428571428594,
+					"time": 80715.8776707163,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 80887.3062421449,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 81058.7348135735,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 81230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 428.571428571537,
+					"time": 81401.5919564306,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 96058.7348135734,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.428571428594,
+					"time": 96230.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 96487.3062421449,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 96658.7348135734,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 96830.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 342.857142857145,
+					"time": 97173.0205278591,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 97858.7348135734,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 98030.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 98201.5919564306,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 98373.0205278591,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 342.857142857174,
+					"time": 98544.4490992877,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 99230.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 99401.5919564306,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 99573.0205278591,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 99915.8776707163,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 99915.8776707163,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 100601.591956431,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 100944.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 101115.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 342.857142857232,
+					"time": 101287.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 101973.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 102144.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 102315.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 102658.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 102658.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 115001.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 115173.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 115344.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 115344.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 115515.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 115515.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 128.571428571449,
+					"time": 115687.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 115687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 115858.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 116030.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 116030.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 116201.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.428571428551,
+					"time": 116373.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 116373.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 116544.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 342.857142857159,
+					"time": 116715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 116715.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 116887.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 117230.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 117230.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 117401.59195643,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 117573.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 117573.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 117744.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 117744.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 117915.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 117915.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 118087.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 118087.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 118258.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 118258.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 118430.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 118601.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 118773.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 118944.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 118944.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 119115.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 119115.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 119287.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 119287.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 119458.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 119458.734813573,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 119630.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 119630.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 342.857142857145,
+					"time": 119801.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 119801.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 120144.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 120315.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 125973.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 125973.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126144.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 126144.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126315.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126315.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126487.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 126487.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 126487.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 128.57142857142,
+					"time": 126658.734813573,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 126658.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 126658.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 126830.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 127001.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 127001.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 127173.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 127173.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 127344.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.42857142858,
+					"time": 127344.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 127344.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 127515.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 127515.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 342.857142857101,
+					"time": 127687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 127687.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 127858.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128030.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128201.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128201.59195643,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 128201.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 128373.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 128544.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128544.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 128715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 128715.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128887.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 128887.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 128887.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 129058.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129058.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129230.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 129230.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 129230.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 342.857142857116,
+					"time": 129401.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 129401.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 129401.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 129573.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129744.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 129915.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129915.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 129915.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130087.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130087.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130087.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 130258.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 130258.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 130258.734813573,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 130430.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 130430.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 130601.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 130601.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 130601.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130773.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 342.857142857014,
+					"time": 130773.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130773.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 130944.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 131115.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 131287.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 131287.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 136944.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 137115.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 137287.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 137287.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 137458.734813573,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 171.428571428551,
+					"time": 137630.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 137630.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 137801.59195643,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 137973.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 137973.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 138144.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 138315.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 138315.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 138487.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 138487.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 257.142857142899,
+					"time": 138658.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 138658.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 139001.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 139001.59195643,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 139344.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 139515.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 139687.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 139687.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 139858.734813573,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 140030.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 140030.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 140201.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 342.857142857159,
+					"time": 140373.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 140373.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 140715.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 140887.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 141058.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 141058.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 141230.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 141401.59195643,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 141401.59195643,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 141573.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 342.85714285713,
+					"time": 141744.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 141744.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 142087.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 142430.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 142601.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 142773.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 142773.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 142944.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 143115.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 257.142857142811,
+					"time": 143115.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 143373.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 143373.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 143630.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 143715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 143801.59195643,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 143801.59195643,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 143973.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 144058.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 144144.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 144144.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 144230.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 144315.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 144401.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 144487.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 144487.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 144658.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 144658.734813573,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 144830.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 145173.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 145344.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 145515.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 145515.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 145687.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 145858.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 342.85714285713,
+					"time": 145858.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 146201.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 146544.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 146715.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 146887.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 146887.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 147058.734813573,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 342.857142857101,
+					"time": 147230.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 147230.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 147573.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 428.571428571362,
+					"time": 147915.877670716,
+					"type": 0
+				}
+			],
+			"characters": [
+				"braldi"
+			],
+			"type": 0,
+			"visible": true,
+			"strumSpacing": 1,
+			"strumPos": [
+				0,
+				50
+			],
+			"strumLinePos": 0.33,
+			"vocalsSuffix": ""
+		},
+		{
+			"keyCount": 4,
+			"strumScale": 1,
+			"position": "boyfriend",
+			"notes": [
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 12387.0967741935,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 12580.6451612903,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 12967.7419354839,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 13161.2903225806,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 13548.3870967742,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 13935.4838709677,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 14129.0322580645,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 14516.1290322581,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 14709.6774193548,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 15096.7741935484,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 15483.8709677419,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 15677.4193548387,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 16064.5161290323,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 16258.064516129,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 16645.1612903226,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 17032.2580645161,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 17419.3548387097,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 17612.9032258065,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 17806.4516129032,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 18000,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 18193.5483870968,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 193.548387096773,
+					"time": 18290.3225806452,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 18580.6451612903,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 18967.7419354839,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 19161.2903225806,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 19354.8387096774,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 19741.935483871,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 19935.4838709677,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 20129.0322580645,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 20516.1290322581,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 48.3870967741932,
+					"time": 20709.6774193548,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 20903.2258064516,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 21096.7741935484,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 145.16129032258,
+					"time": 21677.4193548387,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 22064.5161290323,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 22161.2903225806,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 96.7741935483864,
+					"time": 22451.6129032258,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 22838.7096774194,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 23032.2580645161,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 145.16129032258,
+					"time": 23225.8064516129,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 23612.9032258065,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 193.548387096773,
+					"time": 23709.6774193548,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 193.548387096773,
+					"time": 24000,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 24387.0967741935,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 193.548387096773,
+					"time": 24483.8709677419,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 24774.1935483871,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 24967.7419354839,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 25161.2903225806,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 25354.8387096774,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 290.322580645163,
+					"time": 25548.3870967742,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 25935.4838709677,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 26322.5806451613,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 26516.1290322581,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 26709.6774193548,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 26903.2258064516,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 290.322580645159,
+					"time": 27096.7741935484,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 27290.3225806452,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 27483.8709677419,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 27870.9677419355,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 28064.5161290323,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 28161.2903225806,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 28451.6129032258,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 193.54838709678,
+					"time": 28645.1612903226,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 29032.2580645161,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 29419.3548387097,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 29612.9032258064,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 29806.4516129032,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 30193.5483870968,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 48.3870967741605,
+					"time": 30387.0967741935,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 30580.6451612903,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 193.548387096773,
+					"time": 30774.1935483871,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 31354.8387096774,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 32129.0322580645,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 33096.7741935484,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 33677.4193548387,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 34451.6129032258,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 35225.8064516129,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 36193.5483870968,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 36774.1935483871,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 37161.2903225807,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 37548.3870967742,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 37935.4838709677,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 38225.8064516129,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 38322.5806451613,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 38516.1290322581,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 38709.6774193548,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 39096.7741935484,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 39483.8709677419,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 39870.9677419355,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 40258.064516129,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 40645.1612903226,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 41032.2580645161,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 41322.5806451613,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 41419.3548387097,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 41516.1290322581,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 41806.4516129032,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 42193.5483870968,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 42580.6451612903,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 42967.7419354839,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 45173.0205278593,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 45354.8387096774,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 90.9090909090883,
+					"time": 45536.6568914956,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 45718.4750733138,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 45809.3841642229,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 46082.1114369502,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 48082.1114369502,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 181.818181818184,
+					"time": 48354.8387096774,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 48627.5659824047,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 181.818181818184,
+					"time": 48809.3841642229,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 48991.2023460411,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 49173.0205278593,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 49515.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.428571428623,
+					"time": 49858.7348135735,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 171.428571428522,
+					"time": 50030.1633850021,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 50544.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 85.7142857142753,
+					"time": 50887.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 51230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 214.285714285717,
+					"time": 51401.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 52258.7348135736,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 52515.8776707164,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 171.428571428572,
+					"time": 52601.5919564307,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 171.428571428572,
+					"time": 53287.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 53630.1633850021,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 53801.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.428571428572,
+					"time": 53973.0205278593,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 171.428571428572,
+					"time": 54058.7348135736,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 257.142857142811,
+					"time": 54230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 55001.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 55344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 55601.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 55687.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 55858.7348135736,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 56030.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 56373.0205278593,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 56715.8776707164,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 57058.7348135736,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 57401.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 57744.4490992878,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 58087.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 58258.7348135736,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 58344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 58601.5919564307,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 58773.0205278593,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 59115.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 59458.7348135736,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 59801.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.428571428514,
+					"time": 60144.4490992878,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 85.7142857142753,
+					"time": 60315.8776707164,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 60487.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 60658.7348135736,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.428571428514,
+					"time": 60830.1633850021,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 61001.5919564307,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 61173.0205278593,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 61344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.428571428565,
+					"time": 61515.8776707164,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 61687.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 128.571428571428,
+					"time": 61858.7348135736,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 62030.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 62201.5919564307,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 342.857142857145,
+					"time": 62287.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 62887.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 63058.7348135736,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 63230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 63401.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 257.142857142877,
+					"time": 63573.0205278593,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 128.571428571347,
+					"time": 63830.1633850021,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 64944.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 65115.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 65287.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 65458.7348135736,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 65630.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 65973.0205278593,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 66315.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 66573.0205278593,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 66830.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 67001.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 67344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 67687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 67944.4490992878,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 68201.5919564307,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 68373.0205278593,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 68544.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 68715.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 68887.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 69058.7348135736,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 69230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 69401.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 69573.0205278593,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 69744.4490992878,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 69915.8776707164,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 70087.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 70258.7348135735,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 171.428571428522,
+					"time": 70430.1633850021,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 171.428571428565,
+					"time": 70773.0205278593,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 71115.8776707164,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 71458.7348135735,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 71801.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 72058.7348135735,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 72315.8776707164,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 72487.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 72830.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 73173.0205278592,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 73430.1633850021,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 73687.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 73858.7348135735,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 74030.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 74201.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 74373.0205278592,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 74544.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 74715.8776707164,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 74801.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 75058.7348135735,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 75144.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 75230.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 75401.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 75573.0205278592,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 75744.4490992878,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 171.428571428609,
+					"time": 75915.8776707164,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 171.42857142858,
+					"time": 76258.7348135735,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 76601.5919564307,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 76944.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 77287.3062421449,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 77544.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 77801.5919564307,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 77973.0205278592,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 78315.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 78658.7348135735,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 78915.8776707164,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 79173.0205278592,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 79344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 79515.8776707163,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 79815.8776707163,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 80030.1633850021,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 80287.3062421449,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 80544.4490992878,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 257.142857142855,
+					"time": 80715.8776707163,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 81058.7348135735,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 257.142857142957,
+					"time": 81401.5919564306,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 81744.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 81915.8776707163,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 82087.3062421449,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.42857142858,
+					"time": 82258.7348135735,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 82430.1633850021,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 171.428571428609,
+					"time": 82773.0205278592,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 82944.4490992878,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 83115.8776707163,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 83287.3062421449,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 83458.7348135735,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 83630.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 83801.5919564306,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 83973.0205278592,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 257.142857142841,
+					"time": 84144.4490992878,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 84487.3062421449,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 84830.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 85001.5919564306,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 85173.0205278592,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 85344.4490992878,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 257.142857142811,
+					"time": 85515.8776707163,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 85773.0205278592,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 86887.3062421449,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 87058.7348135735,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 87230.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 87401.5919564306,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 214.285714285827,
+					"time": 87573.0205278592,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 87830.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 88001.5919564306,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 342.857142857159,
+					"time": 88601.5919564306,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 89287.3062421449,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 89458.7348135735,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 89630.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 89801.5919564306,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 89973.0205278592,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 90144.4490992877,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 90315.8776707163,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 257.142857142841,
+					"time": 91258.7348135735,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 92030.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 92201.5919564306,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 42.8571428572468,
+					"time": 92373.0205278592,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 92544.4490992877,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 92715.8776707163,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 98544.4490992877,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 98887.3062421448,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.428571428594,
+					"time": 99230.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 300,
+					"time": 99401.5919564306,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 99915.8776707163,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 100258.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.42857142858,
+					"time": 100601.591956431,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 257.142857142899,
+					"time": 100687.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 101287.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 101630.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.428571428565,
+					"time": 101973.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 300,
+					"time": 102144.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 102658.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 103001.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 109515.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 109687.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 110030.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 110201.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 42.8571428571595,
+					"time": 110544.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 110887.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 111058.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 111401.59195643,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 111573.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 111915.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 112258.734813573,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 112430.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 112773.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 112944.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 113287.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 113630.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 113973.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 114144.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 114315.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 114658.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 114830.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 120487.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 120487.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 120658.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.428571428492,
+					"time": 120658.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 120830.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 121001.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 121001.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 300,
+					"time": 121173.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 121173.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 121515.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 121515.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 121687.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 121858.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 121858.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 122030.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 122201.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 122373.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 300,
+					"time": 122544.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 122544.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 122887.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 123230.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 123230.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 123401.59195643,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 123401.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 123573.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 123744.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 123744.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 123915.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 342.857142857159,
+					"time": 123915.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 124258.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 124601.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 124944.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 125115.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 125287.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 125458.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 125630.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 125801.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 125973.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126315.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126658.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126830.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126915.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 127173.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 127344.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 127687.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128030.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128373.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128715.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129058.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129401.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129658.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129744.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129915.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130087.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130430.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130773.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 131115.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 131458.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 131458.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.42857142858,
+					"time": 131630.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 131630.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 131801.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 131973.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 131973.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 132144.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 300,
+					"time": 132144.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 132487.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 132487.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 132658.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 132830.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 132830.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 133001.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 133173.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 133344.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 133515.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 300,
+					"time": 133515.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 133858.734813573,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 134201.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 134201.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 134373.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 134373.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 134544.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 134715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 134715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 134887.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 342.857142857101,
+					"time": 134887.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 135230.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 135573.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 135915.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 136087.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 136258.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 136430.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 136601.59195643,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 136773.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.428571428551,
+					"time": 136944.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 137287.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 137458.734813573,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 137973.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.42857142858,
+					"time": 138058.734813573,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 138658.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 138830.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 139001.59195643,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 139173.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 139344.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 139515.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 139687.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 140715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 141058.734813573,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 141230.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 141401.59195643,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 141573.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 171.428571428551,
+					"time": 141744.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 141915.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 142087.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 142430.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.42857142858,
+					"time": 143373.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 144144.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 144315.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 144487.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 144658.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 144830.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 145001.59195643,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 145173.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 145858.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 146030.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.42857142858,
+					"time": 146201.59195643,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 146887.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 147058.734813573,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 147230.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 147401.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 147573.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 147744.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 257.142857142811,
+					"time": 147915.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 148173.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 428.571428571449,
+					"time": 148344.449099288,
+					"type": 0
+				}
+			],
+			"characters": [
+				"student"
+			],
+			"type": 1,
+			"visible": true,
+			"strumSpacing": 1,
+			"strumPos": [
+				0,
+				50
+			],
+			"strumLinePos": 0.68,
+			"vocalsSuffix": ""
+		},
+		{
+			"keyCount": 4,
+			"position": "girlfriend",
+			"notes": [
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 93058.7348135735,
+					"type": 0
+				}
+			],
+			"characters": [
+				"crafters"
+			],
+			"type": 2,
+			"visible": false
+		},
+		{
+			"keyCount": 4,
+			"notes": [
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 103344.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 103515.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 104030.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 104373.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 104544.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 104715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 105058.734813574,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 105401.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 105573.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 105744.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 105915.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 106258.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 106430.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 106601.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 106687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 106773.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 106944.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 107115.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 107287.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 107458.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 107630.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 107801.591956431,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 107973.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 108144.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 108315.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 108487.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 108658.734813574,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 108658.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 108830.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 109001.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 109173.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 109344.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 115001.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 115173.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 115344.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 115344.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 115515.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 115515.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 115687.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 128.571428571449,
+					"time": 115687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 115858.734813574,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 116030.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 116030.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 116201.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.428571428551,
+					"time": 116373.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 116373.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 116544.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 116715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 342.857142857159,
+					"time": 116715.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 116887.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 117230.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 117230.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 117401.591956431,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 117573.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 117573.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 117744.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 117744.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 117915.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 117915.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 118087.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 118087.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 118258.734813574,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 118258.734813574,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 342.857142857145,
+					"time": 118430.163385002,
+					"type": 1
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 118430.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 118601.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 118773.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 118944.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 118944.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 119115.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 119115.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 119287.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 119287.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 119458.734813574,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 119458.734813574,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 119630.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 119630.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 119801.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 342.857142857145,
+					"time": 119801.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 120144.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 120315.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 125973.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 125973.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126144.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 126144.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126315.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126315.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 126487.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 126487.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 126487.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 126658.734813574,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 128.571428571435,
+					"time": 126658.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 126658.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 126830.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 127001.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 127001.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 127173.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 127173.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 171.428571428565,
+					"time": 127344.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 127344.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 127344.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 127515.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 127515.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 127687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 342.857142857101,
+					"time": 127687.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 127858.734813574,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128030.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128201.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128201.591956431,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 128201.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 128373.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 128544.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128544.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 128715.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 128715.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 128887.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 128887.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 128887.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 129058.734813574,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129058.734813574,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129230.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 129230.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 129230.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 342.85714285713,
+					"time": 129401.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 129401.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 129401.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 129573.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129744.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 129915.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 129915.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 129915.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130087.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130087.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130087.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 130258.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 130258.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 130258.734813574,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 130430.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 130430.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 130601.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 130601.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 130601.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 342.857142857014,
+					"time": 130773.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130773.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 130773.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 130944.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 131115.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 131287.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 131287.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 136944.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 137115.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 137287.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 137458.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 137630.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 137801.591956431,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 137973.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 138144.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 138315.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 138487.306242145,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 138658.734813574,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 138830.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 139001.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 139173.020527859,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 139344.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 139515.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 139687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 139858.734813574,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 140030.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 140201.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 140373.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 140544.449099288,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 140715.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 140887.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 141058.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 141230.163385002,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 141401.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 141573.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 141744.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 141915.877670716,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 142087.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 142258.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 142430.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 142601.591956431,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 142773.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 142944.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 143115.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 143287.306242145,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 143458.734813574,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 143630.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 143801.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 143973.020527859,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 144144.449099288,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 144315.877670716,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 144487.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 144658.734813574,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 144830.163385002,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 145001.591956431,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 145173.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 145344.449099288,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 145515.877670716,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 145687.306242145,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 145858.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 146030.163385002,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 146201.591956431,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 146373.020527859,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 146544.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 146715.877670716,
+					"type": 0
+				},
+				{
+					"id": 0,
+					"sLen": 0,
+					"time": 146887.306242145,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 147058.734813574,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 147230.163385002,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 147401.591956431,
+					"type": 0
+				},
+				{
+					"id": 3,
+					"sLen": 0,
+					"time": 147573.020527859,
+					"type": 0
+				},
+				{
+					"id": 1,
+					"sLen": 0,
+					"time": 147744.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 158544.449099288,
+					"type": 0
+				},
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 158715.877670716,
+					"type": 0
+				}
+			],
+			"visible": false,
+			"strumSpacing": 1,
+			"strumPos": [
+				0,
+				50
+			],
+			"position": "girlfriend",
+			"strumScale": 0.8,
+			"vocalsSuffix": "",
+			"strumLinePos": 0.5,
+			"type": 2,
+			"characters": [
+				"pt"
+			]
+		}
+	],
+	"scrollSpeed": 2.8,
+	"chartVersion": "1.6.0",
+	"stage": "sigma-bg2",
+	"noteTypes": [
+		"GF Sing"
+	]
+}

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mustard.png">
+<SubTexture name="mustard down0000" x="383" y="1336" width="539" height="266" frameX="-214" frameY="-642" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard down0001" x="1417" y="0" width="484" height="332" frameX="-242" frameY="-576" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard down0002" x="383" y="953" width="430" height="364" frameX="-268" frameY="-544" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard idle0000" x="0" y="953" width="383" height="383" frameX="-291" frameY="-525" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard idle0001" x="1417" y="332" width="383" height="330" frameX="-291" frameY="-578" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard idle0002" x="813" y="953" width="383" height="347" frameX="-291" frameY="-561" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard idle0003" x="0" y="953" width="383" height="383" frameX="-291" frameY="-525" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard left0000" x="0" y="0" width="499" height="499" frameX="-74" frameY="-312" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard left0001" x="0" y="499" width="454" height="454" frameX="-190" frameY="-392" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard left0002" x="980" y="0" width="437" height="438" frameX="-233" frameY="-456" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard right0000" x="499" y="0" width="481" height="481" frameX="-451" frameY="-305" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard right0001" x="454" y="499" width="452" height="451" frameX="-386" frameY="-397" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard right0002" x="980" y="438" width="404" height="403" frameX="-323" frameY="-489" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard up0000" x="0" y="1336" width="383" height="285" frameX="-293" frameY="-305" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard up0001" x="1417" y="991" width="383" height="303" frameX="-299" frameY="-384" frameWidth="989" frameHeight="989" />
+<SubTexture name="mustard up0002" x="1417" y="662" width="383" height="329" frameX="-293" frameY="-488" frameWidth="989" frameHeight="989" />
+</TextureAtlas>

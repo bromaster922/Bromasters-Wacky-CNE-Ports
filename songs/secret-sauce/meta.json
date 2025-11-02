@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "mustard",
+	"difficulties": [
+		"hard"
+	],
+	"name": "secret-sauce",
+	"color": -7179779,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "secret-sauce",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 140
+}

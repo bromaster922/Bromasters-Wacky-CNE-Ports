@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" holdTime="4" x="80" y="380" camx="-190" camy="-120" sprite="skibdi" icon="icon-skibidi"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="idle" anim="idle" loop="false" x="0" y="0"/>
+   <anim name="singLEFT" anim="left" loop="false" x="25" y="2"/>
+   <anim name="singDOWN" anim="down" loop="false" x="-9" y="-30"/>
+   <anim name="singUP" anim="up" loop="false" x="-9" y="71"/>
+   <anim name="singRIGHT" anim="right" loop="false" x="-10" y="-3"/>
+
+</character>

@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" y="300" camx="25" camy="-25" icon="dexter">
+	<anim name="idle" anim="Dexter instance 1"/>
+	<anim name="singDOWN" anim="down dex instance 1" x="60" y="-60"/>
+	<anim name="singRIGHT" anim="right dex instance 1" x="-65" y="-30"/>
+	<anim name="singLEFT" anim="left dex instance 1" x="40"/>
+	<anim name="singUP" anim="up instance 1" x="77" y="78"/>
+	<anim name="Dexter instance 1" anim="Dexter instance 1"/>
+	<anim name="what" anim="dex what instance 1" x="82" y="98"/>
+	<anim name="no" anim="dexter no instance 1" x="44" y="147"/>
+</character>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character y="300" flipX="true" camx="-100" isPlayer="true" icon="fiveish">
+	<anim name="idle" anim="idleish"/>
+	<anim name="singDOWN" anim="downish" x="-10" y="-40"/>
+	<anim name="singRIGHT" anim="rightish" x="25"/>
+	<anim name="singLEFT" anim="leftish" x="20" y="-10"/>
+	<anim name="singUP" anim="upish" x="-5"/>
+	<anim name="prayish" anim="prayish" x="55" y="60"/>
+</character>

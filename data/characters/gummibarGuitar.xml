@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-30" y="250" sprite="gummibar_guitar" camx="-100" camy="-50" icon="gummibarGuitar">
+	<anim name="idle" anim="gummibar idle guitar"/>
+	<anim name="singDOWN" anim="gummibar down guitar" x="-5" y="87"/>
+	<anim name="singRIGHT" anim="gummibar right guitar" x="-88" y="139"/>
+	<anim name="singLEFT" anim="gummibar left guitar" x="85" y="235"/>
+	<anim name="singUP" anim="gummibar up guitar" x="-67" y="317"/>
+</character>

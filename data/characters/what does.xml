@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" y="100" camx="70" icon="what does">
+	<anim name="idle" anim="do instance 1"/>
+	<anim name="button" anim="do instance 1"/>
+</character>

@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/finale/" name="finale" zoom="0.5">
+	<sprite antialiasing="false" x="-963" scroll="0.7" sprite="galaxy" y="-477" type="none" scale="1.7" name="bg"/>
+	<sprite antialiasing="false" x="-702.999710338074" scroll="0.85" sprite="kaicenatBGrocks" y="63.9998119389429" type="none" scale="1.3" name="bgrocks"/>
+	<girlfriend scroll="0.9"/>
+	<sprite antialiasing="false" x="226" sprite="headkai" y="132" type="beat" name="head">
+		<anim name="appear" anim="appearhead" fps="24" loop="false"/>
+		<anim name="chargeup" anim="chargeup" fps="24" loop="false"/>
+		<anim name="charge" anim="charge0" fps="24" loop="true"/>
+		<anim name="idle" anim="idle" fps="24" loop="false"/>
+	</sprite>
+	<sprite antialiasing="false" x="-543.970010209856" sprite="kaicenatrocks" y="-303.454369256956" type="none" scale="1.5" name="bg"/>
+	<dad x="-417" y="-122"/>
+	<boyfriend x="905" y="167.95469228587"/>
+</stage>

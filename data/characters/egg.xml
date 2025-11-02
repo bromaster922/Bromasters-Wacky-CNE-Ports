@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="75" y="250" camx="-125" icon="egg">
+	<anim name="idle" anim="eggidle"/>
+	<anim name="minion" anim="minion" x="-27" y="-108" loop="true"/>
+	<anim name="eggopen" anim="eggopen" y="158"/>
+</character>

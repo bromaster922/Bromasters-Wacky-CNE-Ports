@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character y="150" camx="100" icon="muscleman" color="#66776C">
+	<anim name="idle" anim="idle instance 1"/>
+	<anim name="singDOWN" anim="down instance 1" x="-55" y="-85"/>
+	<anim name="singRIGHT" anim="right instance 1" x="-80" y="-40"/>
+	<anim name="singLEFT" anim="left instance 1" x="56" y="-45"/>
+	<anim name="singUP" anim="up instance 1" y="50"/>
+	<anim name="brass" anim="You know who else instance 1" x="-25" y="10"/>
+</character>

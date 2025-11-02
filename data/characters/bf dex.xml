@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character y="200" flipX="true" camx="-100" isPlayer="true" icon="dexbf">
+	<anim name="idle" anim="bfd instance 1" y="-2"/>
+	<anim name="singDOWN" anim="down bf instance 1" x="30" y="-30"/>
+	<anim name="singRIGHT" anim="right bf instance 1" x="-35" y="-60"/>
+	<anim name="singLEFT" anim="left bf instance 1" x="85" y="-15"/>
+	<anim name="singUP" anim="up bf instance 1" x="45" y="75"/>
+	<anim name="bfd instance 1" anim="bfd instance 1"/>
+</character>

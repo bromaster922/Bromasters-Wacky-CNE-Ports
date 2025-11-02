@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cu.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cu0000" x="0" y="0" width="210" height="206" frameX="-190" frameY="-41" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0001" x="210" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0002" x="210" y="0" width="278" height="270" frameX="-16" frameY="-109" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0003" x="488" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0004" x="488" y="0" width="327" height="318" frameX="0" frameY="0" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0005" x="815" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0006" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0007" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0008" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0009" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0010" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0011" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0012" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0013" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0014" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0015" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0016" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0017" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0018" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0019" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0020" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0021" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0022" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0023" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0024" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0025" x="0" y="318" width="362" height="350" frameX="-34" frameY="-35" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0026" x="362" y="318" width="327" height="318" frameX="0" frameY="0" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0027" x="689" y="318" width="0" height="0" frameX="0" frameY="0" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0028" x="210" y="0" width="278" height="270" frameX="-16" frameY="-109" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0029" x="689" y="318" width="0" height="0" frameX="0" frameY="0" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0030" x="689" y="318" width="210" height="206" frameX="-190" frameY="-41" frameWidth="400" frameHeight="385"/>
+	<SubTexture name="cu0031" x="899" y="318" width="0" height="0" frameX="0" frameY="0" frameWidth="400" frameHeight="385"/>
+</TextureAtlas>

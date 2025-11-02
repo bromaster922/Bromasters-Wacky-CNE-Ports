@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grudance.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grudanc0000" x="10" y="10" width="585" height="661" pivotX="28.5" pivotY="78" frameX="0" frameY="-26" frameWidth="593" frameHeight="695"/>
+	<SubTexture name="grudanc0001" x="10" y="10" width="585" height="661" frameX="0" frameY="-26" frameWidth="593" frameHeight="695"/>
+	<SubTexture name="grudanc0002" x="605" y="10" width="532" height="661" frameX="-29" frameY="-34" frameWidth="593" frameHeight="695"/>
+	<SubTexture name="grudanc0003" x="605" y="10" width="532" height="661" frameX="-29" frameY="-34" frameWidth="593" frameHeight="695"/>
+	<SubTexture name="grudanc0004" x="1147" y="10" width="550" height="692" frameX="-43" frameY="0" frameWidth="593" frameHeight="695"/>
+	<SubTexture name="grudanc0005" x="1147" y="10" width="550" height="692" frameX="-43" frameY="0" frameWidth="593" frameHeight="695"/>
+	<SubTexture name="grudanc0006" x="605" y="10" width="532" height="661" frameX="-29" frameY="-34" frameWidth="593" frameHeight="695"/>
+	<SubTexture name="grudanc0007" x="605" y="10" width="532" height="661" frameX="-29" frameY="-34" frameWidth="593" frameHeight="695"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" y="-150" icon="drake">
+	<anim name="idle" anim="drake idle"/>
+	<anim name="singDOWN" anim="drake down"/>
+	<anim name="singRIGHT" anim="drake right" x="-4" y="-2"/>
+	<anim name="singLEFT" anim="drake left" y="-2"/>
+	<anim name="singUP" anim="drake up" y="-2"/>
+	<anim name="drake kidspeak" anim="drake kidspeak" x="-2" y="3"/>
+</character>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fivedance.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fivedanc0000" x="10" y="10" width="378" height="309" pivotX="-243.4" pivotY="92.2" frameX="-46" frameY="-49" frameWidth="424" frameHeight="380"/>
+	<SubTexture name="fivedanc0001" x="398" y="10" width="307" height="374" frameX="-48" frameY="-6" frameWidth="424" frameHeight="380"/>
+	<SubTexture name="fivedanc0002" x="10" y="394" width="340" height="373" frameX="-35" frameY="0" frameWidth="424" frameHeight="380"/>
+	<SubTexture name="fivedanc0003" x="360" y="394" width="368" height="337" frameX="0" frameY="-36" frameWidth="424" frameHeight="380"/>
+</TextureAtlas>

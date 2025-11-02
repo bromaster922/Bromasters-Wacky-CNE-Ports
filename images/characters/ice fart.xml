@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ice fart.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down ice instance 10000" x="10" y="10" width="1150" height="863" frameX="0" frameY="-16" frameWidth="1150" frameHeight="879"/>
+	<SubTexture name="down ice instance 10001" x="10" y="10" width="1150" height="863" frameX="0" frameY="-16" frameWidth="1150" frameHeight="879"/>
+	<SubTexture name="down ice instance 10002" x="1189" y="10" width="1142" height="879" frameX="-2" frameY="0" frameWidth="1150" frameHeight="879"/>
+	<SubTexture name="down ice instance 10003" x="1189" y="10" width="1142" height="879" frameX="-2" frameY="0" frameWidth="1150" frameHeight="879"/>
+	<SubTexture name="ice king instance 10000" x="2360" y="10" width="934" height="917" frameX="-3" frameY="-3" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10001" x="2360" y="10" width="934" height="917" frameX="-3" frameY="-3" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10002" x="10" y="956" width="926" height="911" frameX="-7" frameY="-9" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10003" x="10" y="956" width="926" height="911" frameX="-7" frameY="-9" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10004" x="965" y="956" width="935" height="913" frameX="-3" frameY="-6" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10005" x="965" y="956" width="935" height="913" frameX="-3" frameY="-6" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10006" x="1929" y="956" width="937" height="918" frameX="-1" frameY="-2" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10007" x="1929" y="956" width="937" height="918" frameX="-1" frameY="-2" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10008" x="2895" y="956" width="939" height="919" frameX="0" frameY="-1" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10009" x="2895" y="956" width="939" height="919" frameX="0" frameY="-1" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10010" x="10" y="1904" width="939" height="920"/>
+	<SubTexture name="ice king instance 10011" x="10" y="1904" width="939" height="920"/>
+	<SubTexture name="ice king instance 10012" x="978" y="1904" width="939" height="920"/>
+	<SubTexture name="ice king instance 10013" x="978" y="1904" width="939" height="920"/>
+	<SubTexture name="ice king instance 10014" x="978" y="1904" width="939" height="920"/>
+	<SubTexture name="ice king instance 10015" x="978" y="1904" width="939" height="920"/>
+	<SubTexture name="ice king instance 10016" x="978" y="1904" width="939" height="920"/>
+	<SubTexture name="ice king instance 10017" x="978" y="1904" width="939" height="920"/>
+	<SubTexture name="ice king instance 10018" x="978" y="1904" width="939" height="920"/>
+	<SubTexture name="ice king instance 10019" x="978" y="1904" width="939" height="920"/>
+	<SubTexture name="ice king instance 10020" x="1946" y="1904" width="936" height="920" frameX="-2" frameY="0" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice king instance 10021" x="1946" y="1904" width="936" height="920" frameX="-2" frameY="0" frameWidth="939" frameHeight="920"/>
+	<SubTexture name="ice up instance 10000" x="2911" y="1904" width="752" height="1029" frameX="-2" frameY="0" frameWidth="771" frameHeight="1029"/>
+	<SubTexture name="ice up instance 10001" x="2911" y="1904" width="752" height="1029" frameX="-2" frameY="0" frameWidth="771" frameHeight="1029"/>
+	<SubTexture name="ice up instance 10002" x="10" y="2962" width="771" height="1020" frameX="0" frameY="-9" frameWidth="771" frameHeight="1029"/>
+	<SubTexture name="ice up instance 10003" x="10" y="2962" width="771" height="1020" frameX="0" frameY="-9" frameWidth="771" frameHeight="1029"/>
+	<SubTexture name="left ice instance 10000" x="810" y="2962" width="864" height="918" frameX="0" frameY="-6" frameWidth="873" frameHeight="924"/>
+	<SubTexture name="left ice instance 10001" x="810" y="2962" width="864" height="918" frameX="0" frameY="-6" frameWidth="873" frameHeight="924"/>
+	<SubTexture name="left ice instance 10002" x="1703" y="2962" width="860" height="924" frameX="-13" frameY="0" frameWidth="873" frameHeight="924"/>
+	<SubTexture name="left ice instance 10003" x="1703" y="2962" width="860" height="924" frameX="-13" frameY="0" frameWidth="873" frameHeight="924"/>
+	<SubTexture name="right ice instance 10000" x="2592" y="2962" width="705" height="926" frameX="-2" frameY="-11" frameWidth="707" frameHeight="937"/>
+	<SubTexture name="right ice instance 10001" x="2592" y="2962" width="705" height="926" frameX="-2" frameY="-11" frameWidth="707" frameHeight="937"/>
+	<SubTexture name="right ice instance 10002" x="3326" y="2962" width="698" height="937" frameX="0" frameY="0" frameWidth="707" frameHeight="937"/>
+	<SubTexture name="right ice instance 10003" x="3326" y="2962" width="698" height="937" frameX="0" frameY="0" frameWidth="707" frameHeight="937"/>
+</TextureAtlas>

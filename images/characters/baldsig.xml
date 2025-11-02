@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="baldsig.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="baldi0000" x="0" y="0" width="1557" height="2091" frameX="0" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0001" x="0" y="0" width="1557" height="2091" frameX="0" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0002" x="1557" y="0" width="1551" height="2091" frameX="-8" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0003" x="1557" y="0" width="1551" height="2091" frameX="-8" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0004" x="0" y="0" width="1557" height="2091" frameX="0" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0005" x="0" y="0" width="1557" height="2091" frameX="0" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0006" x="1557" y="0" width="1551" height="2091" frameX="-8" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0007" x="1557" y="0" width="1551" height="2091" frameX="-8" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0008" x="0" y="0" width="1557" height="2091" frameX="0" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0009" x="0" y="0" width="1557" height="2091" frameX="0" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0010" x="1557" y="0" width="1551" height="2091" frameX="-8" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0011" x="1557" y="0" width="1551" height="2091" frameX="-8" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0012" x="0" y="0" width="1557" height="2091" frameX="0" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0013" x="0" y="0" width="1557" height="2091" frameX="0" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0014" x="1557" y="0" width="1551" height="2091" frameX="-8" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldi0015" x="1557" y="0" width="1551" height="2091" frameX="-8" frameY="0" frameWidth="1559" frameHeight="2091"/>
+	<SubTexture name="baldid0000" x="3108" y="0" width="1587" height="975" frameX="0" frameY="-226" frameWidth="1587" frameHeight="1201"/>
+	<SubTexture name="baldid0001" x="3108" y="0" width="1587" height="975" frameX="0" frameY="-226" frameWidth="1587" frameHeight="1201"/>
+	<SubTexture name="baldid0002" x="4695" y="0" width="1200" height="1200" frameX="-193" frameY="0" frameWidth="1587" frameHeight="1201"/>
+	<SubTexture name="baldid0003" x="4695" y="0" width="1200" height="1200" frameX="-193" frameY="0" frameWidth="1587" frameHeight="1201"/>
+	<SubTexture name="baldid0004" x="4695" y="0" width="1200" height="1200" frameX="-193" frameY="0" frameWidth="1587" frameHeight="1201"/>
+	<SubTexture name="baldid0005" x="4695" y="0" width="1200" height="1200" frameX="-193" frameY="0" frameWidth="1587" frameHeight="1201"/>
+	<SubTexture name="baldid0006" x="4695" y="0" width="1200" height="1200" frameX="-193" frameY="0" frameWidth="1587" frameHeight="1201"/>
+	<SubTexture name="baldid0007" x="4695" y="0" width="1200" height="1200" frameX="-193" frameY="0" frameWidth="1587" frameHeight="1201"/>
+	<SubTexture name="baldid0008" x="4695" y="0" width="1200" height="1200" frameX="-193" frameY="0" frameWidth="1587" frameHeight="1201"/>
+	<SubTexture name="baldil0000" x="5895" y="0" width="1662" height="2316" frameX="0" frameY="-31" frameWidth="1668" frameHeight="2347"/>
+	<SubTexture name="baldil0001" x="5895" y="0" width="1662" height="2316" frameX="0" frameY="-31" frameWidth="1668" frameHeight="2347"/>
+	<SubTexture name="baldil0002" x="0" y="2316" width="1425" height="2168" frameX="-243" frameY="0" frameWidth="1668" frameHeight="2347"/>
+	<SubTexture name="baldil0003" x="0" y="2316" width="1425" height="2168" frameX="-243" frameY="0" frameWidth="1668" frameHeight="2347"/>
+	<SubTexture name="baldil0004" x="0" y="2316" width="1425" height="2168" frameX="-243" frameY="0" frameWidth="1668" frameHeight="2347"/>
+	<SubTexture name="baldil0005" x="0" y="2316" width="1425" height="2168" frameX="-243" frameY="0" frameWidth="1668" frameHeight="2347"/>
+	<SubTexture name="baldil0006" x="0" y="2316" width="1425" height="2168" frameX="-243" frameY="0" frameWidth="1668" frameHeight="2347"/>
+	<SubTexture name="baldil0007" x="0" y="2316" width="1425" height="2168" frameX="-243" frameY="0" frameWidth="1668" frameHeight="2347"/>
+	<SubTexture name="baldil0008" x="0" y="2316" width="1425" height="2168" frameX="-243" frameY="0" frameWidth="1668" frameHeight="2347"/>
+	<SubTexture name="baldir0000" x="1425" y="2316" width="1691" height="2086" frameX="-18" frameY="0" frameWidth="1709" frameHeight="2086"/>
+	<SubTexture name="baldir0001" x="1425" y="2316" width="1691" height="2086" frameX="-18" frameY="0" frameWidth="1709" frameHeight="2086"/>
+	<SubTexture name="baldir0002" x="3116" y="2316" width="1709" height="2067" frameX="0" frameY="-19" frameWidth="1709" frameHeight="2086"/>
+	<SubTexture name="baldiu0000" x="4825" y="2316" width="1481" height="2337" frameX="0" frameY="0" frameWidth="1521" frameHeight="2337"/>
+	<SubTexture name="baldiu0001" x="4825" y="2316" width="1481" height="2337" frameX="0" frameY="0" frameWidth="1521" frameHeight="2337"/>
+	<SubTexture name="baldiu0002" x="6306" y="2316" width="1462" height="2303" frameX="-59" frameY="-34" frameWidth="1521" frameHeight="2337"/>
+	<SubTexture name="baldiu0003" x="6306" y="2316" width="1462" height="2303" frameX="-59" frameY="-34" frameWidth="1521" frameHeight="2337"/>
+	<SubTexture name="baldiu0004" x="6306" y="2316" width="1462" height="2303" frameX="-59" frameY="-34" frameWidth="1521" frameHeight="2337"/>
+	<SubTexture name="baldiu0005" x="6306" y="2316" width="1462" height="2303" frameX="-59" frameY="-34" frameWidth="1521" frameHeight="2337"/>
+	<SubTexture name="baldiu0006" x="6306" y="2316" width="1462" height="2303" frameX="-59" frameY="-34" frameWidth="1521" frameHeight="2337"/>
+	<SubTexture name="baldiu0007" x="6306" y="2316" width="1462" height="2303" frameX="-59" frameY="-34" frameWidth="1521" frameHeight="2337"/>
+	<SubTexture name="baldiu0008" x="6306" y="2316" width="1462" height="2303" frameX="-59" frameY="-34" frameWidth="1521" frameHeight="2337"/>
+</TextureAtlas>

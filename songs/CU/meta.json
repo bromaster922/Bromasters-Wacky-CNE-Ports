@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#77FF00",
+	"opponentModeAllowed": false,
+	"icon": "icon-kleb",
+	"difficulties": [
+		"cu"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "CU",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 150
+}

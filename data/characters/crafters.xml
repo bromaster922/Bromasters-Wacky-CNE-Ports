@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" y="-200" sprite="meia" isPlayer="true" icon="crafters" holdTime="20">
+	<anim name="idle" anim="idle 1333" x="1871" y="39"/>
+	<anim name="singUP" anim="elgrito" loop="true"/>
+</character>

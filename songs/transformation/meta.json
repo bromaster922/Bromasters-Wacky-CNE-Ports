@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#8F71FD",
+	"opponentModeAllowed": false,
+	"icon": "lanky",
+	"difficulties": [
+		"transformation-hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "transformation",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 208
+}

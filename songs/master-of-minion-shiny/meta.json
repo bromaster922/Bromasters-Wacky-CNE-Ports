@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#4426A4",
+	"opponentModeAllowed": false,
+	"icon": "gru",
+	"difficulties": [
+		"Hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "master-of-minion-shiny",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 100
+}

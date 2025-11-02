@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-500" y="-600" sprite="baldsig" scale="0.3" camx="-50" camy="-50">
+	<anim name="idle" anim="baldi0" x="-12" y="-12" loop="true"/>
+	<anim name="singLEFT" anim="baldil" x="450" y="100"/>
+	<anim name="singDOWN" anim="baldid" x="30" y="-800"/>
+	<anim name="singUP" anim="baldiu" y="250"/>
+	<anim name="singRIGHT" anim="baldir" x="-225"/>
+</character>

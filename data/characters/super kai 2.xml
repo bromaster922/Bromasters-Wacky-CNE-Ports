@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="8000" x="210" y="200" camx="20" camy="370" sprite="soulkai" icon="icon-kaisuper"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="idle" anim="soulsgrab" indices="0" loop="false" x="2" y="0"/>
+   <anim name="singDOWN" anim="soulsgrab" loop="false" x="2" y="0"/>
+
+</character>

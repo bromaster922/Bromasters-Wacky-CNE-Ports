@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="muscle man.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="You know who else instance 10000" x="10" y="10" width="431" height="575" frameX="-9" frameY="-4" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10001" x="10" y="10" width="431" height="575" frameX="-9" frameY="-4" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10002" x="451" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10003" x="451" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10004" x="903" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10005" x="903" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10006" x="1355" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10007" x="1355" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10008" x="1807" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10009" x="1807" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10010" x="2259" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10011" x="2259" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10012" x="1355" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10013" x="1355" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10014" x="2711" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10015" x="2711" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10016" x="2711" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10017" x="3163" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10018" x="3163" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10019" x="3615" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10020" x="3615" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10021" x="10" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10022" x="10" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10023" x="462" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10024" x="462" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10025" x="914" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10026" x="914" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10027" x="914" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10028" x="1366" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10029" x="1818" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10030" x="2270" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10031" x="2722" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10032" x="3163" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10033" x="451" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10034" x="903" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10035" x="3174" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10036" x="3174" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10037" x="3626" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10038" x="3626" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10039" x="1366" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10040" x="10" y="1179" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10041" x="462" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10042" x="462" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10043" x="462" y="1179" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10044" x="462" y="1179" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10045" x="914" y="1179" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10046" x="1366" y="1179" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10047" x="451" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10048" x="451" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10049" x="903" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10050" x="903" y="10" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10051" x="3174" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10052" x="3174" y="595" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10053" x="1818" y="1179" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10054" x="1818" y="1179" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10055" x="2270" y="1179" width="442" height="574" frameX="-3" frameY="-6" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10056" x="2722" y="1179" width="432" height="580" frameX="-9" frameY="0" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10057" x="2722" y="1179" width="432" height="580" frameX="-9" frameY="0" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10058" x="3164" y="1179" width="441" height="577" frameX="-3" frameY="-3" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10059" x="3615" y="1179" width="441" height="577" frameX="-3" frameY="-3" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10060" x="10" y="1769" width="470" height="530" frameX="0" frameY="-50" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10061" x="490" y="1769" width="470" height="530" frameX="0" frameY="-50" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10062" x="970" y="1769" width="484" height="525" frameX="-7" frameY="-55" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10063" x="970" y="1769" width="484" height="525" frameX="-7" frameY="-55" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10064" x="1464" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10065" x="1962" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10066" x="2460" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10067" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10068" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10069" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10070" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10071" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10072" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10073" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10074" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10075" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10076" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10077" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10078" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10079" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10080" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10081" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10082" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10083" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10084" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10085" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10086" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10087" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10088" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10089" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10090" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10091" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10092" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10093" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10094" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10095" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10096" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10097" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10098" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10099" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10100" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10101" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10102" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10103" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10104" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10105" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10106" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10107" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10108" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="You know who else instance 10109" x="2958" y="1769" width="488" height="522" frameX="-6" frameY="-58" frameWidth="494" frameHeight="580"/>
+	<SubTexture name="down instance 10000" x="3456" y="1769" width="449" height="462" frameX="-3" frameY="-16" frameWidth="452" frameHeight="479"/>
+	<SubTexture name="down instance 10001" x="3456" y="1769" width="449" height="462" frameX="-3" frameY="-16" frameWidth="452" frameHeight="479"/>
+	<SubTexture name="down instance 10002" x="10" y="2309" width="439" height="479" frameX="0" frameY="0" frameWidth="452" frameHeight="479"/>
+	<SubTexture name="down instance 10003" x="10" y="2309" width="439" height="479" frameX="0" frameY="0" frameWidth="452" frameHeight="479"/>
+	<SubTexture name="idle instance 10000" x="459" y="2309" width="504" height="532" frameX="0" frameY="-32" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10001" x="459" y="2309" width="504" height="532" frameX="0" frameY="-32" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10002" x="973" y="2309" width="501" height="532" frameX="-3" frameY="-32" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10003" x="973" y="2309" width="501" height="532" frameX="-3" frameY="-32" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10004" x="1484" y="2309" width="477" height="547" frameX="-18" frameY="-17" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10005" x="1484" y="2309" width="477" height="547" frameX="-18" frameY="-17" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10006" x="1971" y="2309" width="479" height="558" frameX="-18" frameY="-6" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10007" x="1971" y="2309" width="479" height="558" frameX="-18" frameY="-6" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10008" x="2460" y="2309" width="481" height="561" frameX="-17" frameY="-3" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10009" x="2460" y="2309" width="481" height="561" frameX="-17" frameY="-3" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10010" x="2951" y="2309" width="482" height="564" frameX="-16" frameY="0" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="idle instance 10011" x="2951" y="2309" width="482" height="564" frameX="-16" frameY="0" frameWidth="504" frameHeight="564"/>
+	<SubTexture name="left instance 10000" x="3443" y="2309" width="464" height="511" frameX="0" frameY="-10" frameWidth="471" frameHeight="521"/>
+	<SubTexture name="left instance 10001" x="3443" y="2309" width="464" height="511" frameX="0" frameY="-10" frameWidth="471" frameHeight="521"/>
+	<SubTexture name="left instance 10002" x="10" y="2883" width="466" height="521" frameX="-5" frameY="0" frameWidth="471" frameHeight="521"/>
+	<SubTexture name="left instance 10003" x="10" y="2883" width="466" height="521" frameX="-5" frameY="0" frameWidth="471" frameHeight="521"/>
+	<SubTexture name="right instance 10000" x="486" y="2883" width="523" height="522" frameX="-12" frameY="-9" frameWidth="535" frameHeight="531"/>
+	<SubTexture name="right instance 10001" x="486" y="2883" width="523" height="522" frameX="-12" frameY="-9" frameWidth="535" frameHeight="531"/>
+	<SubTexture name="right instance 10002" x="1019" y="2883" width="525" height="531" frameX="0" frameY="0" frameWidth="535" frameHeight="531"/>
+	<SubTexture name="right instance 10003" x="1019" y="2883" width="525" height="531" frameX="0" frameY="0" frameWidth="535" frameHeight="531"/>
+	<SubTexture name="up instance 10000" x="1554" y="2883" width="376" height="619" frameX="0" frameY="0" frameWidth="381" frameHeight="619"/>
+	<SubTexture name="up instance 10001" x="1554" y="2883" width="376" height="619" frameX="0" frameY="0" frameWidth="381" frameHeight="619"/>
+	<SubTexture name="up instance 10002" x="1940" y="2883" width="376" height="610" frameX="-5" frameY="-9" frameWidth="381" frameHeight="619"/>
+	<SubTexture name="up instance 10003" x="1940" y="2883" width="376" height="610" frameX="-5" frameY="-9" frameWidth="381" frameHeight="619"/>
+</TextureAtlas>

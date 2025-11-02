@@ -1,0 +1,15 @@
+{
+	"color": "#365F3E",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"icon": "muscleman",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "mymom",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 190
+}

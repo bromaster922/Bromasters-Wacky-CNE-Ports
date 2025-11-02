@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="6.1" x="200" y="540" camx="270" camy="270" sprite="introkai" icon="icon-kaisuper"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+   <anim name="weak" anim="weak" loop="false" x="0" y="0"/>
+   <anim name="idle" anim="weak" loop="false" x="0" y="0" indices="4"/>
+</character>

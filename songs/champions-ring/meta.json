@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FFDD00",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"hard"
+	],
+	"icon": "matt",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "champions-ring",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 175
+}

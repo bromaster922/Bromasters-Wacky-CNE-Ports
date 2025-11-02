@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dexter.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dexter instance 10000" x="10" y="10" width="370" height="357" frameX="0" frameY="-18" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10001" x="10" y="10" width="370" height="357" frameX="0" frameY="-18" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10002" x="390" y="10" width="374" height="355" frameX="0" frameY="-20" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10003" x="390" y="10" width="374" height="355" frameX="0" frameY="-20" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10004" x="774" y="10" width="370" height="364" frameX="0" frameY="-11" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10005" x="774" y="10" width="370" height="364" frameX="0" frameY="-11" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10006" x="1154" y="10" width="357" height="370" frameX="0" frameY="-5" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10007" x="1154" y="10" width="357" height="370" frameX="0" frameY="-5" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10008" x="1521" y="10" width="353" height="373" frameX="0" frameY="-2" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10009" x="1521" y="10" width="353" height="373" frameX="0" frameY="-2" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10010" x="1884" y="10" width="352" height="375" frameX="0" frameY="0" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="Dexter instance 10011" x="1884" y="10" width="352" height="375" frameX="0" frameY="0" frameWidth="374" frameHeight="375"/>
+	<SubTexture name="dex what instance 10000" x="2246" y="10" width="389" height="454" frameX="-5" frameY="-20" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10001" x="2246" y="10" width="389" height="454" frameX="-5" frameY="-20" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10002" x="2645" y="10" width="414" height="436" frameX="0" frameY="-38" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10003" x="2645" y="10" width="414" height="436" frameX="0" frameY="-38" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10004" x="3069" y="10" width="356" height="339" frameX="-78" frameY="-126" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10005" x="3069" y="10" width="356" height="339" frameX="-78" frameY="-126" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10006" x="3435" y="10" width="350" height="346" frameX="-81" frameY="-119" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10007" x="3435" y="10" width="350" height="346" frameX="-81" frameY="-119" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10008" x="10" y="474" width="350" height="346" frameX="-81" frameY="-119" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10009" x="10" y="474" width="350" height="346" frameX="-81" frameY="-119" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10010" x="370" y="474" width="350" height="346" frameX="-81" frameY="-119" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10011" x="370" y="474" width="350" height="346" frameX="-81" frameY="-119" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10012" x="370" y="474" width="350" height="346" frameX="-81" frameY="-119" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10013" x="370" y="474" width="350" height="346" frameX="-81" frameY="-119" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10014" x="370" y="474" width="350" height="346" frameX="-81" frameY="-119" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10015" x="370" y="474" width="350" height="346" frameX="-81" frameY="-119" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10016" x="730" y="474" width="361" height="336" frameX="-76" frameY="-129" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10017" x="730" y="474" width="361" height="336" frameX="-76" frameY="-129" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10018" x="1101" y="474" width="344" height="380" frameX="-88" frameY="-85" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10019" x="1101" y="474" width="344" height="380" frameX="-88" frameY="-85" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10020" x="1455" y="474" width="350" height="370" frameX="-81" frameY="-95" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10021" x="1455" y="474" width="350" height="370" frameX="-81" frameY="-95" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10022" x="1815" y="474" width="350" height="370" frameX="-81" frameY="-95" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10023" x="1815" y="474" width="350" height="370" frameX="-81" frameY="-95" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10024" x="1815" y="474" width="350" height="370" frameX="-81" frameY="-95" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10025" x="1815" y="474" width="350" height="370" frameX="-81" frameY="-95" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10026" x="1815" y="474" width="350" height="370" frameX="-81" frameY="-95" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10027" x="1815" y="474" width="350" height="370" frameX="-81" frameY="-95" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10028" x="1815" y="474" width="350" height="370" frameX="-81" frameY="-95" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10029" x="1815" y="474" width="350" height="370" frameX="-81" frameY="-95" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10030" x="2175" y="474" width="358" height="357" frameX="-76" frameY="-107" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10031" x="2175" y="474" width="358" height="357" frameX="-76" frameY="-107" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10032" x="2543" y="474" width="377" height="411" frameX="-50" frameY="0" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10033" x="2930" y="474" width="382" height="404" frameX="-48" frameY="0" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10034" x="3322" y="474" width="383" height="404" frameX="-55" frameY="-27" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10035" x="10" y="895" width="387" height="397" frameX="-53" frameY="-27" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10036" x="407" y="895" width="383" height="404" frameX="-55" frameY="-39" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10037" x="800" y="895" width="387" height="397" frameX="-53" frameY="-39" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10038" x="407" y="895" width="383" height="404" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10039" x="800" y="895" width="387" height="397" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10040" x="1197" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10041" x="1590" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10042" x="1987" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10043" x="2380" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10044" x="2777" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10045" x="3170" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10046" x="2777" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10047" x="3170" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10048" x="2777" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10049" x="2380" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10050" x="1987" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10051" x="3567" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10052" x="10" y="1309" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10053" x="3170" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10054" x="2777" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10055" x="800" y="895" width="387" height="397" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10056" x="407" y="895" width="383" height="404" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10057" x="3170" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10058" x="2777" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10059" x="403" y="1309" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10060" x="800" y="1309" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10061" x="800" y="895" width="387" height="397" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10062" x="407" y="895" width="383" height="404" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10063" x="3170" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10064" x="2777" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10065" x="1193" y="1309" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10066" x="1590" y="1309" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10067" x="800" y="895" width="387" height="397" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10068" x="407" y="895" width="383" height="404" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10069" x="403" y="1309" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10070" x="800" y="1309" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10071" x="2380" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10072" x="1987" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10073" x="800" y="895" width="387" height="397" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10074" x="407" y="895" width="383" height="404" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10075" x="3170" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10076" x="2777" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10077" x="2380" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10078" x="1987" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10079" x="3170" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10080" x="2777" y="895" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10081" x="3567" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10082" x="10" y="1309" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10083" x="3567" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10084" x="10" y="1309" width="383" height="403" frameX="-55" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10085" x="3567" y="895" width="387" height="396" frameX="-53" frameY="-42" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10086" x="1983" y="1309" width="377" height="407" frameX="-58" frameY="-63" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dex what instance 10087" x="2370" y="1309" width="375" height="414" frameX="-59" frameY="-63" frameWidth="440" frameHeight="477"/>
+	<SubTexture name="dexter no instance 10000" x="2755" y="1309" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10001" x="2755" y="1309" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10002" x="3117" y="1309" width="354" height="365" frameX="-45" frameY="-156" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10003" x="3117" y="1309" width="354" height="365" frameX="-45" frameY="-156" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10004" x="3481" y="1309" width="358" height="372" frameX="-45" frameY="-149" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10005" x="3481" y="1309" width="358" height="372" frameX="-45" frameY="-149" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10006" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10007" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10008" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10009" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10010" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10011" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10012" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10013" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10014" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10015" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10016" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10017" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10018" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10019" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10020" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10021" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10022" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10023" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10024" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10025" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10026" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10027" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10028" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10029" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10030" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10031" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10032" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10033" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10034" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10035" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10036" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10037" x="10" y="1733" width="352" height="373" frameX="-45" frameY="-148" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10038" x="3117" y="1309" width="354" height="365" frameX="-45" frameY="-156" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10039" x="3117" y="1309" width="354" height="365" frameX="-45" frameY="-156" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10040" x="372" y="1733" width="390" height="381" frameX="-34" frameY="-136" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10041" x="372" y="1733" width="390" height="381" frameX="-34" frameY="-136" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10042" x="772" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10043" x="772" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10044" x="1168" y="1733" width="387" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10045" x="1168" y="1733" width="387" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10046" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10047" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10048" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10049" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10050" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10051" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10052" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10053" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10054" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10055" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10056" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10057" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10058" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10059" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10060" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10061" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10062" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10063" x="1565" y="1733" width="386" height="375" frameX="-30" frameY="-142" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10064" x="1961" y="1733" width="416" height="356" frameX="0" frameY="-161" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10065" x="1961" y="1733" width="416" height="356" frameX="0" frameY="-161" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10066" x="2387" y="1733" width="364" height="488" frameX="-95" frameY="-45" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10067" x="2387" y="1733" width="364" height="488" frameX="-95" frameY="-45" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10068" x="2761" y="1733" width="416" height="502" frameX="-129" frameY="-10" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10069" x="2761" y="1733" width="416" height="502" frameX="-129" frameY="-10" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10070" x="3187" y="1733" width="436" height="511" frameX="-135" frameY="-1" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10071" x="3187" y="1733" width="436" height="511" frameX="-135" frameY="-1" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10072" x="3633" y="1733" width="441" height="511" frameX="-134" frameY="-1" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10073" x="3633" y="1733" width="441" height="511" frameX="-134" frameY="-1" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10074" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10075" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10076" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10077" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10078" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10079" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10080" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10081" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10082" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10083" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10084" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10085" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="dexter no instance 10086" x="10" y="2254" width="443" height="512" frameX="-133" frameY="0" frameWidth="576" frameHeight="533"/>
+	<SubTexture name="down dex instance 10000" x="463" y="2254" width="420" height="326" frameX="-14" frameY="-9" frameWidth="445" frameHeight="335"/>
+	<SubTexture name="down dex instance 10001" x="463" y="2254" width="420" height="326" frameX="-14" frameY="-9" frameWidth="445" frameHeight="335"/>
+	<SubTexture name="down dex instance 10002" x="893" y="2254" width="445" height="335"/>
+	<SubTexture name="down dex instance 10003" x="893" y="2254" width="445" height="335"/>
+	<SubTexture name="down dex instance 10004" x="893" y="2254" width="445" height="335"/>
+	<SubTexture name="down dex instance 10005" x="893" y="2254" width="445" height="335"/>
+	<SubTexture name="left dex instance 10000" x="1348" y="2254" width="325" height="363" frameX="0" frameY="-11" frameWidth="325" frameHeight="374"/>
+	<SubTexture name="left dex instance 10001" x="1348" y="2254" width="325" height="363" frameX="0" frameY="-11" frameWidth="325" frameHeight="374"/>
+	<SubTexture name="left dex instance 10002" x="1683" y="2254" width="305" height="374" frameX="-19" frameY="0" frameWidth="325" frameHeight="374"/>
+	<SubTexture name="left dex instance 10003" x="1683" y="2254" width="305" height="374" frameX="-19" frameY="0" frameWidth="325" frameHeight="374"/>
+	<SubTexture name="left dex instance 10004" x="1683" y="2254" width="305" height="374" frameX="-19" frameY="0" frameWidth="325" frameHeight="374"/>
+	<SubTexture name="left dex instance 10005" x="1683" y="2254" width="305" height="374" frameX="-19" frameY="0" frameWidth="325" frameHeight="374"/>
+	<SubTexture name="right dex instance 10000" x="1998" y="2254" width="325" height="353" frameX="-12" frameY="0" frameWidth="337" frameHeight="353"/>
+	<SubTexture name="right dex instance 10001" x="1998" y="2254" width="325" height="353" frameX="-12" frameY="0" frameWidth="337" frameHeight="353"/>
+	<SubTexture name="right dex instance 10002" x="2333" y="2254" width="328" height="351" frameX="0" frameY="-2" frameWidth="337" frameHeight="353"/>
+	<SubTexture name="right dex instance 10003" x="2333" y="2254" width="328" height="351" frameX="0" frameY="-2" frameWidth="337" frameHeight="353"/>
+	<SubTexture name="right dex instance 10004" x="2333" y="2254" width="328" height="351" frameX="0" frameY="-2" frameWidth="337" frameHeight="353"/>
+	<SubTexture name="right dex instance 10005" x="2333" y="2254" width="328" height="351" frameX="0" frameY="-2" frameWidth="337" frameHeight="353"/>
+	<SubTexture name="up instance 10000" x="2671" y="2254" width="390" height="455" frameX="-5" frameY="0" frameWidth="415" frameHeight="455"/>
+	<SubTexture name="up instance 10001" x="3071" y="2254" width="390" height="455" frameX="-5" frameY="0" frameWidth="415" frameHeight="455"/>
+	<SubTexture name="up instance 10002" x="3471" y="2254" width="415" height="437" frameX="0" frameY="-18" frameWidth="415" frameHeight="455"/>
+	<SubTexture name="up instance 10003" x="3471" y="2254" width="415" height="437" frameX="0" frameY="-18" frameWidth="415" frameHeight="455"/>
+</TextureAtlas>

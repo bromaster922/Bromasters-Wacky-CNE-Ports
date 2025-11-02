@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"hard"
+	],
+	"icon": "dexter",
+	"color": -7179779,
+	"name": "calculated",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "calculated",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 128
+}

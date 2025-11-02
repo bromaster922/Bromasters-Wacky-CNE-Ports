@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="-100" y="-200" flipX="true" camx="50" camy="200" isPlayer="true">
+	<anim name="idle" anim="finn instance 1"/>
+	<anim name="singDOWN" anim="down finn instance 1" x="-145" y="-310"/>
+	<anim name="singRIGHT" anim="right instance 1" x="-270.29" y="-296.71"/>
+	<anim name="singLEFT" anim="left instance 1" x="-24.29" y="-271.43"/>
+	<anim name="singUP" anim="up instance 1" x="-147.14" y="-168.57"/>
+	<anim name="finn instance 1" anim="finn instance 1"/>
+</character>

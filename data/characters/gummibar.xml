@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character y="250" color="#23CA2F">
+	<anim name="idle" anim="gummibar idle0"/>
+	<anim name="singDOWN" anim="gummibar down0" x="-20" y="-195"/>
+	<anim name="singRIGHT" anim="gummibar right0" x="-60" y="-10"/>
+	<anim name="singLEFT" anim="gummibar left0" x="115"/>
+	<anim name="singUP" anim="gummibar up0" x="-40" y="55"/>
+	<anim name="singUP-alt" anim="gummibar up gangsta" x="-30" y="145"/>
+	<anim name="singDOWN-alt" anim="gummibar down gangsta" x="-20" y="-130"/>
+	<anim name="idle-alt" anim="gummibar idle gangsta" x="2" y="70"/>
+	<anim name="singLEFT-alt" anim="gummibar left gangsta" x="115" y="75"/>
+	<anim name="singRIGHT-alt" anim="gummibar right gangsta" x="-60" y="55"/>
+</character>

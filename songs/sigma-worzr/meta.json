@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#9271FD",
+	"opponentModeAllowed": false,
+	"icon": "braldi",
+	"difficulties": [
+		"worzr"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "sigma-worzr",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 155
+}

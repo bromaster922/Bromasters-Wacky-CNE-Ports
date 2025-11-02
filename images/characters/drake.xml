@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="drake.png">
+<SubTexture name="drake down0000" x="1946" y="1158" width="764" height="523" frameX="-194" frameY="-407" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake down0001" x="712" y="1918" width="738" height="491" frameX="-220" frameY="-424" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake down0002" x="0" y="1918" width="712" height="492" frameX="-246" frameY="-423" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake idle0000" x="2744" y="0" width="839" height="473" frameX="-119" frameY="-442" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake idle0001" x="2744" y="1804" width="780" height="397" frameX="-178" frameY="-518" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake idle0002" x="2744" y="1393" width="819" height="411" frameX="-139" frameY="-504" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake idle0003" x="2744" y="946" width="832" height="447" frameX="-126" frameY="-468" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake kidspeak0000" x="1450" y="1918" width="839" height="491" frameX="-119" frameY="-424" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake kidspeak0001" x="2744" y="473" width="839" height="473" frameX="-119" frameY="-442" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake kidspeak0002" x="2744" y="0" width="839" height="473" frameX="-119" frameY="-442" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake left0000" x="695" y="1332" width="798" height="579" frameX="-160" frameY="-336" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake left0001" x="1946" y="0" width="798" height="579" frameX="-160" frameY="-336" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake left0002" x="1946" y="579" width="798" height="579" frameX="-160" frameY="-336" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake right0000" x="0" y="0" width="621" height="701" frameX="-361" frameY="-214" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake right0001" x="621" y="0" width="630" height="661" frameX="-328" frameY="-254" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake right0002" x="695" y="701" width="669" height="599" frameX="-289" frameY="-316" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake up0000" x="1251" y="0" width="695" height="656" frameX="-263" frameY="-259" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake up0001" x="0" y="701" width="695" height="631" frameX="-263" frameY="-284" frameWidth="989" frameHeight="989" />
+<SubTexture name="drake up0002" x="0" y="1332" width="695" height="586" frameX="-263" frameY="-329" frameWidth="989" frameHeight="989" />
+</TextureAtlas>

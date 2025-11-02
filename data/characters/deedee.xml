@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" y="100" sprite="Deedee" camx="70" icon="deedee">
+	<anim name="idle" anim="deedee instance 1"/>
+	<anim name="singDOWN" anim="down deedee instance 1" x="5" y="-120"/>
+	<anim name="singRIGHT" anim="right deedee instance 1" x="-115" y="-30"/>
+	<anim name="singLEFT" anim="left deedee instance 1" x="35" y="-5"/>
+	<anim name="singUP" anim="up deedee instance 1" y="35"/>
+	<anim name="intro" anim="hi deedee instance 1" x="695" y="180"/>
+</character>

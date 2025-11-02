@@ -1,0 +1,22 @@
+{
+	"customValues": {
+		"previewStart": "0",
+		"ratings": "{ hard => 8 }",
+		"artist": "invalid_bruh",
+		"previewEnd": "0",
+		"album": "gummibar",
+		"noteStyle": "funkin"
+	},
+	"color": "#39FF47",
+	"opponentModeAllowed": true,
+	"icon": "gummibar",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Gummibar",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 170
+}

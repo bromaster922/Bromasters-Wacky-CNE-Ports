@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="50" y="130" sprite="komiku" scale="0.7" camx="100" camy="30" icon="comi" color="#3B3B3B">
+	<anim name="idle" anim="comedor"/>
+	<anim name="singDOWN" anim="pose"/>
+	<anim name="singRIGHT" anim="pose"/>
+	<anim name="singLEFT" anim="pose"/>
+	<anim name="singUP" anim="pose"/>
+</character>

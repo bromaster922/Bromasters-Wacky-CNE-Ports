@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="komiku.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="comedor0000" x="0" y="0" width="548" height="618"/>
+	<SubTexture name="comedor0001" x="0" y="0" width="548" height="618"/>
+	<SubTexture name="comedor0002" x="548" y="0" width="545" height="618" frameX="-1" frameY="0" frameWidth="548" frameHeight="618"/>
+	<SubTexture name="comedor0003" x="548" y="0" width="545" height="618" frameX="-1" frameY="0" frameWidth="548" frameHeight="618"/>
+	<SubTexture name="pose0000" x="1093" y="0" width="576" height="626"/>
+	<SubTexture name="pose0001" x="1093" y="0" width="576" height="626"/>
+	<SubTexture name="pose0002" x="0" y="626" width="575" height="624" frameX="-1" frameY="0" frameWidth="576" frameHeight="626"/>
+	<SubTexture name="pose0003" x="0" y="626" width="575" height="624" frameX="-1" frameY="0" frameWidth="576" frameHeight="626"/>
+</TextureAtlas>

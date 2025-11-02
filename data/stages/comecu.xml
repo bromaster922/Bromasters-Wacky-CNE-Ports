@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="/stages/cu/" name="comecu" zoom="0.9">
+	<sprite antialiasing="false" x="-300" scroll="0" sprite="scary" type="none" scale="3" name="scary"/>
+	<girlfriend alpha="0" scroll="1"/>
+	<dad x="-400"/>
+	<boyfriend x="700"/>
+</stage>

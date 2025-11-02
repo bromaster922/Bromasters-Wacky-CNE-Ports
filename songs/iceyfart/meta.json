@@ -1,0 +1,15 @@
+{
+	"color": "#0000FF",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"icon": "iceyfart",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "iceyfart",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 143
+}

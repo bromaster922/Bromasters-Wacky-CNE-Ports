@@ -1,0 +1,16 @@
+{
+	"customValues": {},
+	"color": "#643005",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"FINALE",
+		"mult"
+	],
+	"icon": "icon-kaisuper",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "finale",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 143
+}

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/sigbaldi/" name="sigma-bg2" zoom="0.9">
+	<sprite x="-346" sprite="sigbg2" y="-174" type="none" name="bg2"/>
+	<sprite x="126.555555555556" sprite="baldi_bg" y="9.33333333333331" type="none" scale="1.7" name="baldi_bg"/>
+	<girlfriend/>
+	<dad/>
+	<boyfriend/>
+</stage>

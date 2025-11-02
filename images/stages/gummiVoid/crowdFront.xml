@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdFront.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowd fron instance 10000" x="14" y="14" width="3024" height="776" frameX="-1" frameY="-32" frameWidth="3025" frameHeight="829"/>
+	<SubTexture name="crowd fron instance 10001" x="14" y="14" width="3024" height="776" frameX="-1" frameY="-32" frameWidth="3025" frameHeight="829"/>
+	<SubTexture name="crowd fron instance 10002" x="14" y="14" width="3024" height="776" frameX="-1" frameY="-32" frameWidth="3025" frameHeight="829"/>
+	<SubTexture name="crowd fron instance 10003" x="14" y="797" width="2975" height="829" frameX="-3" frameY="0" frameWidth="3025" frameHeight="829"/>
+	<SubTexture name="crowd fron instance 10004" x="14" y="797" width="2975" height="829" frameX="-3" frameY="0" frameWidth="3025" frameHeight="829"/>
+	<SubTexture name="crowd fron instance 10005" x="14" y="797" width="2975" height="829" frameX="-3" frameY="0" frameWidth="3025" frameHeight="829"/>
+	<SubTexture name="crowd fron instance 10006" x="14" y="1633" width="2968" height="809" frameX="0" frameY="-8" frameWidth="3025" frameHeight="829"/>
+	<SubTexture name="crowd fron instance 10007" x="14" y="1633" width="2968" height="809" frameX="0" frameY="-8" frameWidth="3025" frameHeight="829"/>
+	<SubTexture name="crowd fron instance 10008" x="14" y="1633" width="2968" height="809" frameX="0" frameY="-8" frameWidth="3025" frameHeight="829"/>
+</TextureAtlas>

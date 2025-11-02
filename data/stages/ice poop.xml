@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="/stages/" name="ice poop" zoom="0.7">
+	<sprite x="-770.15317921084" sprite="penguin" y="-507.961324858104" type="none" skewy="-3.72892827726901e-13" name="penguin"/>
+	<girlfriend x="481.428571428605" y="-129.999999999969"/>
+	<dad x="-93.9492742579069" y="91.9187859514012"/>
+	<boyfriend x="697.269016792241" y="110.774960475224"/>
+</stage>

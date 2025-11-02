@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/gummiVoid/" name="gru">
+	<sprite x="-895" scroll="0.9" sprite="gummiVoid" y="-967" name="void"/>
+	<sprite x="-387" scroll="0.8" sprite="crowdBack" y="300" name="crowdBack"/>
+	<sprite x="-915" sprite="gummiFloor" y="787" name="floor"/>
+	<girlfriend x="517.650711186586" y="296.877517966407"/>
+	<dad x="238.897552542433" y="260"/>
+	<boyfriend x="951.05900116939" y="200"/>
+	<sprite x="-444" scroll="1.1" sprite="crowdFront" y="580" name="crowdFront"/>
+	<sprite x="-809.952380952362" sprite="gummyGradient" y="-300" alpha="0.2" name="grad"/>
+</stage>

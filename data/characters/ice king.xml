@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="-125" y="-150" sprite="ice fart" camx="100">
+	<anim name="idle" anim="ice king instance 1"/>
+	<anim name="singDOWN" anim="down ice instance 1" x="65" y="-50"/>
+	<anim name="singRIGHT" anim="right ice instance 1" x="-145.71" y="8.57"/>
+	<anim name="singLEFT" anim="left ice instance 1" x="112.86" y="-5.71"/>
+	<anim name="singUP" anim="ice up instance 1" x="40" y="97.14"/>
+	<anim name="ice king instance 1" anim="ice king instance 1" x="1"/>
+</character>

@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="/stages/" name="gru">
+	<sprite x="-209.042686363251" sprite="gru_bg" y="-84.9402390166267" type="none" scale="1.2" name="bg"/>
+	<girlfriend/>
+	<dad x="55.9192504421357" y="73.7975283669907"/>
+	<boyfriend x="817.715601038732" y="92.6419584457088"/>
+</stage>
