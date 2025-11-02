@@ -4,7 +4,6 @@
 	"opponentModeAllowed": false,
 	"difficulties": [
 		"FINALE",
-		"mult"
 	],
 	"icon": "icon-kaisuper",
 	"coopAllowed": false,
